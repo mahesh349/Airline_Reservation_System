@@ -1,5 +1,5 @@
 # Flight-Reservation-System
-SSW-500 project
+Web Programming Project
 
 ## to run this code you need node.js and mongodb installed in your device.
 ## after successfully installing this two things you can go to client directory and run command first 'npm i' and after that  'npm start'.
